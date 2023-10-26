@@ -6,7 +6,9 @@ export default function MyPortfolio() {
       <div className="portfolio--container-box">
         <div className="portfolio--container">
           <p className="section--title">Recent Projects</p>
+{/* 
           <h2 className="skills--section--heading">My Portfolio</h2>
+           */}
         </div>
         <div>
          <a href="https://github.com/ChandnaM" target="_blank">
@@ -42,7 +44,8 @@ export default function MyPortfolio() {
                 <p className="text-md">{item.description}</p>
               </div>
               <a href={item.link} target="_blank" className="text-sm portfolio--link">
-                View in github 
+                {/* View in github  */}
+                {item.buttonText}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"

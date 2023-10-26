@@ -31,21 +31,24 @@
         "src": "./img/placeholder-image-4.png",
         "title": "Expense Tracker",
         "description":"Developed a user-friendly application for efficient tracking of daily transactions and income using Node.js for server-side management, React.js for the client-side, and MongoDB for database management",
-        "link": "https://github.com/ChandnaM/Expense-Tracker"
+        "link": "https://github.com/ChandnaM/Expense-Tracker",
+        "buttonText": "View in GitHub"
       },
       {
         "id": "2",
         "src": "./img/placeholder-image-3.png",
         "title": "App Dashboard",
         "description": "Conceptualized and developed a comprehensive website that integrates all stakeholders involved in blood donation, including blood banks, awareness NGOs, donors, and patients. Used the MERN (MongoDB, Express.js, React.js,Node.js) stack and Restful APIs to develop the website with the goal of eradicating Thalassemia from India.",
-        "link": "https://blood-bank-system-mitakshi.vercel.app/"
+        "link": "https://blood-bank-system-mitakshi.vercel.app/",
+        "buttonText": "View Website"
       },
       {
         "id": "3",
         "src": "./img/placeholder-image-2.png",
         "title": "Credit-Card-Fraud-Detection",
         "description": "Spearheaded the successful implementation of a credit card fraud detection project using Random Forest algorithm on Jupyter, achieving an accuracy of 99.954%.",
-        "link": "https://github.com/ChandnaM/credit_card_fraud_detection"
+        "link": "https://github.com/ChandnaM/credit_card_fraud_detection",
+        "buttonText": "View in GitHub"
       }
     ],
     "experience": [
