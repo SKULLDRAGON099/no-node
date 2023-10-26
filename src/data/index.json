@@ -1,0 +1,59 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "I have hands-on experience in Front-end development using React.js and UI frameworks like Tailwind, Maerial-UI,  Ant-design."
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Proficient in backend development using Node.js and Express.js for building server-side applications. Skillful in utilising MongoDB database for database management"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "Machine Learning",
+        "description": "Beginner-level knowledge of machine learning concepts, including supervised learning, unsupervised learning, and data preprocessing."
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "C++",
+        "description": "Strong understanding of fundamental data structures, including arrays, linked lists, stacks, queues, trees, and graphs using C++."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image-4.png",
+        "title": "Expense Tracker",
+        "description":"Developed a user-friendly application for efficient tracking of daily transactions and income using Node.js for server-side management, React.js for the client-side, and MongoDB for database management",
+        "link": "https://github.com/ChandnaM/Expense-Tracker"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-3.png",
+        "title": "App Dashboard",
+        "description": "Conceptualized and developed a comprehensive website that integrates all stakeholders involved in blood donation, including blood banks, awareness NGOs, donors, and patients. Used the MERN (MongoDB, Express.js, React.js,Node.js) stack and Restful APIs to develop the website with the goal of eradicating Thalassemia from India.",
+        "link": "https://blood-bank-system-mitakshi.vercel.app/"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Credit-Card-Fraud-Detection",
+        "description": "Spearheaded the successful implementation of a credit card fraud detection project using Random Forest algorithm on Jupyter, achieving an accuracy of 99.954%.",
+        "link": "https://github.com/ChandnaM/credit_card_fraud_detection"
+      }
+    ],
+    "experience": [
+      {
+        "id": "1",
+        "src": "./img/avatar-imag.png",
+        "title": "Advanced Application Engineering Analyst",
+        "description": "<ol><li>Leveraged the Mocha testing framework and Chai assertion library to perform thorough unit testing</li><li>Task 2</li><li>Task 3</li></ol>"
+      }
+    ]
+  }
